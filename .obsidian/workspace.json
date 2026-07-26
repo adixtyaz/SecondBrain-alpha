@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "3a7dc27641607810",
+    "type": "split",
+    "children": [
+      {
+        "id": "1575387767a79a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bc1c06cc8e143c9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f75d99d67d70a1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4b30580d25779cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a40cb284cc980bf1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b8d7a593580ecd9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "053cd0dc4cc420ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "447f1a05bf023cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "418317653e98ff34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b84cd10e94192fec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "37866adbd1d7aea5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6383ecf12b188361",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4095b3206dfeaa99",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a9ba2e2a7b5cd881",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6bc1c06cc8e143c9",
+  "lastOpenFiles": [
+    "raw/Steve Jobs' 2005 Stanford Commencement Address.md",
+    "archive/llm-wiki.md",
+    "wiki/index.md",
+    "raw/llm-wiki.md",
+    "wiki/source-llm-wiki.md",
+    "wiki/obsidian.md",
+    "wiki/wiki-maintenance-workflows.md",
+    "wiki/retrieval-augmented-generation.md",
+    "wiki/persistent-synthesis.md",
+    "wiki/llm-maintained-knowledge-wikis.md",
+    "RULES.md",
+    "AGENT.md",
+    "LOG.md",
+    "README.md",
+    "archive",
+    "wiki/overview.md",
+    "wiki/getting-started.md",
+    "wiki",
+    "raw/assets",
+    "raw",
+    "Welcome.md"
+  ]
+}
