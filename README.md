@@ -10,12 +10,6 @@ This vault has been bootstrapped and has completed its first ingest.
 
 The current wiki includes source summaries and topic pages for:
 
-- AI 2027 and rapid AI capability forecasting
-- AI R&D automation
-- AI alignment and misalignment
-- AI governance and geopolitics
-- The Future of Humanity Institute
-- Existential risk
 - LLM-maintained wiki systems
 
 Start with [`wiki/overview.md`](wiki/overview.md) for the high-level synthesis, then use [`wiki/index.md`](wiki/index.md) as the catalog.
