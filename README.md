@@ -4,16 +4,6 @@ SecondBrain is a git-tracked Obsidian vault maintained by an AI agent. It is des
 
 The core idea is simple: the human captures sources and asks questions; the agent reads, synthesizes, links, archives, and logs. Over time, the wiki becomes a compounding artifact.
 
-## Current Status
-
-This vault has been bootstrapped and has completed its first ingest.
-
-The current wiki includes source summaries and topic pages for:
-
-- LLM-maintained wiki systems
-
-Start with [`wiki/overview.md`](wiki/overview.md) for the high-level synthesis, then use [`wiki/index.md`](wiki/index.md) as the catalog.
-
 ## Architecture
 
 The vault has three main layers.
@@ -112,7 +102,7 @@ The agent should:
 
 Ask questions about the wiki.
 
-The agent should read `wiki/index.md` first, then read the relevant pages in full before answering. Answers should cite wiki pages using Obsidian-style references such as `[[ai-2027-scenario]]`.
+The agent should read `wiki/index.md` first, then read the relevant pages in full before answering. Answers should cite wiki pages using Obsidian-style references.
 
 ### 4. Lint
 
